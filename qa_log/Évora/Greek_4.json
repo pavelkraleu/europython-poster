@@ -1,0 +1,9 @@
+{
+  "question": "Which type of climate does Évora, Portugal, have according to the Köppen-Geiger classification?",
+  "true_answer": "Mediterranean climate",
+  "asked_language_name": "Greek",
+  "asked_question_translated": "Τι είδους κλίμα έχει η Εβόρα της Πορτογαλίας σύμφωνα με την ταξινόμηση Köppen-Geiger;",
+  "answer_ranking": 10,
+  "answer": "Η Εβόρα της Πορτογαλίας έχει μεσογειακό κλίμα (Csa) σύμφωνα με την ταξινόμηση Köppen-Geiger.",
+  "answer_translated_eng": "Evora, Portugal has a Mediterranean climate (Csa) according to the Köppen-Geiger classification."
+}

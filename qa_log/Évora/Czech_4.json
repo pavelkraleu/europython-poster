@@ -1,0 +1,9 @@
+{
+  "question": "Which type of climate does Évora, Portugal, have according to the Köppen-Geiger classification?",
+  "true_answer": "Mediterranean climate",
+  "asked_language_name": "Czech",
+  "asked_question_translated": "Jaký typ podnebí má Évora v Portugalsku podle Köppen-Geigerovy klasifikace?",
+  "answer_ranking": 8,
+  "answer": "Évora v Portugalsku má podle Köppen-Geigerovy klasifikace středomořské podnebí (Csa).",
+  "answer_translated_eng": "Évora in Portugal has a Mediterranean climate (Csa) according to the Köppen-Geiger classification."
+}
