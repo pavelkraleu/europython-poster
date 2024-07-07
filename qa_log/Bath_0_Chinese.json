@@ -1,0 +1,9 @@
+{
+  "question": "What is the population of Bath, England according to the 2021 Census?",
+  "true_answer": "94,092",
+  "asked_language_name": "Chinese",
+  "asked_question_translated": "根据 2021 年人口普查，英格兰巴斯的人口有多少？",
+  "answer_ranking": 8,
+  "answer": "根据2021年人口普查，英格兰巴斯的人口约为101,106人。",
+  "answer_translated_eng": "The population of Bath, England, is estimated to be 101,106 at the 2021 census."
+}
