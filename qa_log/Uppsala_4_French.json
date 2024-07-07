@@ -1,9 +1,0 @@
-{
-  "question": "Which university is located in Uppsala, Sweden and is the oldest in the Nordic countries?",
-  "true_answer": "Uppsala University, founded in 1477",
-  "asked_language_name": "French",
-  "asked_question_translated": "Quelle est l'université la plus ancienne des pays nordiques, située à Uppsala, en Suède ?",
-  "answer_ranking": 10,
-  "answer": "L'université la plus ancienne des pays nordiques, située à Uppsala en Suède, est l'Université d'Uppsala, fondée en 1477.",
-  "answer_translated_eng": "The oldest university in the Nordic countries, located in Uppsala in Sweden, is the University of Uppsala, founded in 1477."
-}

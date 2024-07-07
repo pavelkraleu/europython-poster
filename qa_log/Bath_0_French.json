@@ -1,9 +1,0 @@
-{
-  "question": "What is the population of Bath, England according to the 2021 Census?",
-  "true_answer": "94,092",
-  "asked_language_name": "French",
-  "asked_question_translated": "Quelle est la population de Bath, en Angleterre, selon le recensement de 2021 ?",
-  "answer_ranking": 5,
-  "answer": "Selon le recensement de 2021, la population de Bath, en Angleterre, est d'environ 101 106 habitants.",
-  "answer_translated_eng": "According to the 2021 census, the population of Bath, England, is approximately 101,106."
-}
