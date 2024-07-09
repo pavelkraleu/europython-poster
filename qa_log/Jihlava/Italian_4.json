@@ -1,9 +1,9 @@
 {
-  "question": "What significant structure from the 17th century stands in Brněnské sady in Jihlava, Czech Republic?",
-  "true_answer": "The command bunker from the Cold War K 9.",
+  "question": "Which shopping facility, noted for its brutalist style, is situated on Masarykovo square in Jihlava, Czech Republic?",
+  "true_answer": "The Prior department store.",
   "asked_language_name": "Italian",
-  "asked_question_translated": "Quale importante struttura del XVII secolo si trova a Brněnské sady a Jihlava, nella Repubblica Ceca?",
-  "answer_ranking": 1,
-  "answer": "L'importante struttura del XVII secolo situata a Brněnské sady a Jihlava, nella Repubblica Ceca, è la Colonna della Peste.",
-  "answer_translated_eng": "The important 17th century structure located in Brněnské sady in Jihlava, Czech Republic, is the Plague Column."
+  "asked_question_translated": "Quale struttura commerciale, nota per il suo stile brutalista, si trova in piazza Masarykovo a Jihlava, nella Repubblica Ceca?",
+  "answer_ranking": 10,
+  "answer": "La struttura commerciale nota per il suo stile brutalista che si trova in piazza Masarykovo a Jihlava, nella Repubblica Ceca, è il \"Prior Department Store.\"",
+  "answer_translated_eng": "The commercial structure known for its brutalist style located on Masarykovo Square in Jihlava, Czech Republic, is the \"Prior Department Store.\""
 }

@@ -1,9 +1,9 @@
 {
-  "question": "What significant structure from the 17th century stands in Brněnské sady in Jihlava, Czech Republic?",
-  "true_answer": "The command bunker from the Cold War K 9.",
+  "question": "Which shopping facility, noted for its brutalist style, is situated on Masarykovo square in Jihlava, Czech Republic?",
+  "true_answer": "The Prior department store.",
   "asked_language_name": "Slovenian",
-  "asked_question_translated": "Katera pomembna zgradba iz 17. stoletja stoji v Brnenskih sadikah v mestu Jihlava na Češkem?",
-  "answer_ranking": 1,
-  "answer": "Pomembna zgradba iz 17. stoletja, ki stoji v Brnenskih sadikah v mestu Jihlava na Češkem, je jezuitska gimnazija, danes samostan svete Krištofa.",
-  "answer_translated_eng": "An important 17th-century building in the Brno Orchards in Jihlava, Czech Republic, is the Jesuit Gymnasium, today the Monastery of St Christopher."
+  "asked_question_translated": "Kateri nakupovalni objekt v brutalističnem slogu se nahaja na Masarykovem trgu v Jihlavi na Češkem?",
+  "answer_ranking": 3,
+  "answer": "Nakupovalni objekt v brutalističnem slogu na Masarykovem trgu v Jihlavi na Češkem je Trgovski dom (Obchodní dům).",
+  "answer_translated_eng": "The brutalist-style shopping building on Masaryk Square in Jihlava, Czech Republic, is the Obchodní dům (Market House)."
 }

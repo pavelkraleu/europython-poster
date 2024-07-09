@@ -1,9 +1,9 @@
 {
-  "question": "What significant structure from the 17th century stands in Brněnské sady in Jihlava, Czech Republic?",
-  "true_answer": "The command bunker from the Cold War K 9.",
+  "question": "Which shopping facility, noted for its brutalist style, is situated on Masarykovo square in Jihlava, Czech Republic?",
+  "true_answer": "The Prior department store.",
   "asked_language_name": "Turkish",
-  "asked_question_translated": "Çek Cumhuriyeti'nin Jihlava kentindeki Brněnské sady'de 17. yüzyıldan kalma hangi önemli yapı bulunmaktadır?",
-  "answer_ranking": 1,
-  "answer": "Çek Cumhuriyeti'nin Jihlava kentindeki Brněnské sady'de 17. yüzyıldan kalma önemli yapı, Kutsal Haç Kilisesi'dir.",
-  "answer_translated_eng": "In Brněnské sady in Jihlava, Czech Republic, the important 17th-century building is the Church of the Holy Cross."
+  "asked_question_translated": "Çek Cumhuriyeti'nin Jihlava kentindeki Masarykovo meydanında yer alan ve brütalist tarzıyla dikkat çeken alışveriş tesisi hangisidir?",
+  "answer_ranking": 10,
+  "answer": "Masarykovo meydanında yer alan ve brütalist tarzıyla dikkat çeken alışveriş tesisi, Prior Shopping Center'dır.",
+  "answer_translated_eng": "Located on Masarykovo square, Prior Shopping Centre is a shopping facility with a brutalist style."
 }

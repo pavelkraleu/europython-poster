@@ -1,9 +1,9 @@
 {
-  "question": "What significant structure from the 17th century stands in Brněnské sady in Jihlava, Czech Republic?",
-  "true_answer": "The command bunker from the Cold War K 9.",
+  "question": "Which shopping facility, noted for its brutalist style, is situated on Masarykovo square in Jihlava, Czech Republic?",
+  "true_answer": "The Prior department store.",
   "asked_language_name": "Swedish",
-  "asked_question_translated": "Vilken betydande byggnad från 1600-talet står i Brněnské sady i Jihlava, Tjeckien?",
-  "answer_ranking": 1,
-  "answer": "I Brněnské sady i Jihlava, Tjeckien, står den betydande byggnaden Colloredos palats från 1600-talet.",
-  "answer_translated_eng": "In Brněnské sady in Jihlava, Czech Republic, stands the significant 17th-century Colloredo Palace."
+  "asked_question_translated": "Vilken shoppinganläggning, känd för sin brutalistiska stil, ligger på Masarykovo-torget i Jihlava, Tjeckien?",
+  "answer_ranking": 10,
+  "answer": "Shoppinganläggningen som är känd för sin brutalistiska stil och ligger på Masarykovo-torget i Jihlava, Tjeckien, heter Prior.",
+  "answer_translated_eng": "Known for its brutalist style, the shopping centre is located on Masarykovo Square in Jihlava, Czech Republic, and is called Prior."
 }
